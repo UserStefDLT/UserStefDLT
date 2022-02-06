@@ -5,6 +5,7 @@
 - 💞️ *I’m looking to collaborate on ...* I'm not sure. I'll have to see it first.
 - 📫 *How to reach me ...* just email for now: UserStefDLT@gmail.com
 
+- 📄 **Web Resume** at: https://userstefdlt.github.io/resume/
 <!---
 UserStefDLT/UserStefDLT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
